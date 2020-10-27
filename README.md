@@ -1,2 +1,2 @@
 # PORTFOLIOBUILDING1
-This repo has diffirent practice with react-native.
+This repo has different practice with react-native.
